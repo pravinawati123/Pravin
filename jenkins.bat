@@ -1,3 +1,3 @@
 c:
 cd:C:\Users\pravina\Downloads
-mkdir GitHubFolder
+mkdir GitFolder
